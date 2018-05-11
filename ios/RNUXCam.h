@@ -7,7 +7,7 @@
 //
 
 
-#import <RCTBridgeModule.h>
+#import "RCTBridgeModule.h"
 
 
 @interface RNUXCam : NSObject <RCTBridgeModule>
